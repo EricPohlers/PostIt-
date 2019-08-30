@@ -1,5 +1,5 @@
 # PostIt-
-adding, loading and editing posts on small Website created with bootswatch-theme
+adding, loading and editing posts on small Website created with a bootswatch-theme
 
 Learning:
 - ES2015 Modules
